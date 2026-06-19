@@ -1,0 +1,57 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Roboto;
+}
+
+.heading {
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.container {
+    background-color: #86d2f2;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+
+}
+
+.signals-card {
+    display: flex;
+    justify-content: center;
+
+}
+
+.signal-box {
+    background-color: #1f1d41;
+    border-radius: 30px;
+    height: 250px;
+    width: 80px;
+}
+
+.buttons {
+    display: grid;
+
+}
+
+.button {
+    background-color: #1f1d41;
+    color: #ffffff;
+    font-size: 15px;
+    height: 35px;
+    width: 55px;
+    margin: 20px;
+    padding: 5px;
+    border: none;
+    border-radius: 10px;
+}
+
+.circle {
+    background-color: #4b5069;
+    border-radius: 50px;
+    height: 45px;
+    width: 45px;
+    margin: 18px;
+}
