@@ -1,0 +1,35 @@
+*body{
+    margin:0px;
+    padding:0px;
+    font-family: Arial, sans-serif;
+    background-color: antiquewhite;
+}
+.bg-container{
+    justify-content: center;
+    text-align: center;
+
+}
+.counter-container{
+    text-align: center;
+    margin:20px;
+    height:500px;
+    width:400px;
+    display:grid;
+    background-color: aliceblue;
+}
+#counterValue{
+    font-weight: bold;
+    font-size: 50px;
+}
+.counter-buttons{
+    justify-content: center;
+    display:flex;
+    margin:10px;
+
+}
+button{
+    margin:5px;
+    padding:2px;
+    width:100px;
+    height:25px;
+}
